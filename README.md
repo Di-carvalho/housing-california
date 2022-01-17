@@ -1,2 +1,2 @@
 # housing-california
-Previsão de preços de casas do estado da California.(em andamento)
+Previsão de preços de casas do estado da California.
